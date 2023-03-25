@@ -4,7 +4,7 @@
  * @x: The number to be checked
  * Return: 1 for upperletter or 0 for any else
  */
-int _isupper(int c);
+int _isupper(int c)
 
 {
 
